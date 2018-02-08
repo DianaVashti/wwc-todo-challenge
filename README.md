@@ -1,7 +1,7 @@
 # Todo-List from (almost) scratch.
 
 ## Set-up:
-- Fork/clone this repo (https://github.com/DianaVashti/todo-project-for-sabrin)
+- Fork/clone this repo (https://github.com/DianaVashti/wwc-todo-challenge)
 - $`npm i`
 - $`npm run db:create`
 - $`npm run db:create_test`
